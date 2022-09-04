@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\bin\Debug\net6.0\Task0001.exe
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\bin\Debug\net6.0\Task0001.deps.json
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\bin\Debug\net6.0\Task0001.runtimeconfig.json
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\bin\Debug\net6.0\Task0001.dll
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\bin\Debug\net6.0\Task0001.pdb
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.AssemblyInfo.cs
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.dll
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\refint\Task0001.dll
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.pdb
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\Task0001.genruntimeconfig.cache
+C:\Users\Данил\Desktop\SEM9_C#\C-cem9\Task0001\obj\Debug\net6.0\ref\Task0001.dll
